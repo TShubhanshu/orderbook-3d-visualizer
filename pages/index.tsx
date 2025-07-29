@@ -47,7 +47,6 @@ export default function Home() {
 
 
 
-
 // import Head from 'next/head';
 // import dynamic from 'next/dynamic';
 // import { ControlPanel } from '../components/ControlPanel';
