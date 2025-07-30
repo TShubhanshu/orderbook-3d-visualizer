@@ -1,10 +1,38 @@
+# 📈 Orderbook 3D Visualizer
+
+This project is a 3D visualizer for cryptocurrency orderbook data using **React**, **TypeScript**, and **React Three Fiber**.
+
+## 🚀 Features
+
+- Interactive 3D scene with zoom/pan
+- Visual differentiation between Buy (green) and Sell (red) orders
+- Clean and responsive layout
+- Type-safe with TypeScript
+- Built using modern React (R3F + Drei)
+
+## 🔧 Tech Stack
+
+- React + Vite
+- React Three Fiber (Three.js wrapper)
+- Drei (for OrbitControls)
+- TypeScript
+
+## 📦 Installation
+
+git clone https://github.com/yourusername/orderbook-3d-visualizer.git
+cd orderbook-3d-visualizer
+npm install
+npm run dev
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
-
-```bash
 npm run dev
 # or
 yarn dev
